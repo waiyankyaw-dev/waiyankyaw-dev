@@ -1,4 +1,4 @@
-### Hi there, I am a computer engineering student and love coding. 👋 
+### Hi there, I am a computer engineering student and I have a strong interest in MERN stack. But I love to learn other technologies such as different types of programming languages and frameworks. In the future, I wanna learn andriod development and Artificial Intelligence.👋 
 
 <!--
 **waiyankyaw-dev/waiyankyaw-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

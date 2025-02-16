@@ -1,4 +1,4 @@
-### Hi there, I am a CS student as SUSTech.👋 
+### Hi there, I am a CS student at SUSTech.👋 
 
 <!--
 **waiyankyaw-dev/waiyankyaw-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

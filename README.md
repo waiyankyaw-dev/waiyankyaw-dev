@@ -1,10 +1,7 @@
 ## 👋Hi, I am Wai Yan Kyaw! 
 
 - 👩🏻‍💻I’m a sophomore CS student [@SUSTech](https://www.sustech.edu.cn/en/) .
-
 - 🌱 I am currently exploring ML, DL, CV, and NLP, with plans to specialize in one subfield.
-- 👯 I am actively participating in hackathons focused on Web Applications. 
-- ⚡ Fun fact: I can study and code all day, except when eating or sleeping.
 - 📫 Reach me? 12312638@mail.sustech.edu.cn or waiyankyaw.dev@gmail.com
 
 

@@ -1,7 +1,7 @@
 ## 👋Hi, I am Wai Yan Kyaw! 
 
-- 👩🏻‍💻I’m a sophomore CS student [@SUSTech](https://www.sustech.edu.cn/en/) .
-- 🌱 I am currently exploring ML, DL, CV, and NLP, with plans to specialize in one subfield.
+- 👩🏻‍💻I’m a junior CS student [@SUSTech](https://www.sustech.edu.cn/en/) .
+- 🌱 Researching self-supervised visual representations and multimodal fusion in computer vision.
 - 📫 Reach me? 12312638@mail.sustech.edu.cn or waiyankyaw.dev@gmail.com
 
 

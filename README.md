@@ -64,7 +64,5 @@
     </a>
   </p>
 
-![WaiYanKyaw's TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=waiyankyaw-dev&show_icons=true&theme=algolia)
 
-![WaiYanKyaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=waiyankyaw-dev&show_icons=true&theme=algolia )
 
